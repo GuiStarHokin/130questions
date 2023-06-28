@@ -23,6 +23,8 @@
     <ClCompile Include="4-5.c" />
     <ClCompile Include="4-6.c" />
     <ClCompile Include="4-7.c" />
+    <ClCompile Include="4-8.c" />
+    <ClCompile Include="4-9.c" />
     <ClCompile Include="chapter01\1-1.c" />
     <ClCompile Include="chapter01\1-2.c" />
     <ClCompile Include="chapter01\1-3.c" />
