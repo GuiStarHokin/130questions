@@ -138,5 +138,8 @@
     <ClCompile Include="4-9.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5-1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
