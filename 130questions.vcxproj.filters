@@ -216,5 +216,14 @@
     <ClCompile Include="7-8.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
