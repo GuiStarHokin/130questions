@@ -240,5 +240,8 @@
     <ClCompile Include="8-5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8-6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
