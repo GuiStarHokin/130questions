@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="10-1.c" />
+    <ClCompile Include="10-2.c" />
     <ClCompile Include="4-4.c" />
     <ClCompile Include="4-5.c" />
     <ClCompile Include="4-6.c" />
