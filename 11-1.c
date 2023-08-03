@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+/*
 void Senary(int n)
 {
     if (n > 0)
@@ -20,3 +21,4 @@ int main()
     Senary(n);
     return 0;
 }
+*/
