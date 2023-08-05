@@ -321,5 +321,11 @@
     <ClCompile Include="11-1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11-2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

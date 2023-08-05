@@ -30,6 +30,8 @@
     <ClCompile Include="10-8.c" />
     <ClCompile Include="10-9.c" />
     <ClCompile Include="11-1.c" />
+    <ClCompile Include="11-2.c" />
+    <ClCompile Include="11-3.c" />
     <ClCompile Include="4-4.c" />
     <ClCompile Include="4-5.c" />
     <ClCompile Include="4-6.c" />
