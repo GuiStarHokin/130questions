@@ -45,6 +45,7 @@
     <ClCompile Include="12-2.c" />
     <ClCompile Include="12-3.c" />
     <ClCompile Include="12-4.c" />
+    <ClCompile Include="12-5.c" />
     <ClCompile Include="4-4.c" />
     <ClCompile Include="4-5.c" />
     <ClCompile Include="4-6.c" />
