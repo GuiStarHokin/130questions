@@ -390,5 +390,8 @@
     <ClCompile Include="chapter12\12-5.c">
       <Filter>源文件\chapter12</Filter>
     </ClCompile>
+    <ClCompile Include="chapter12\12-6.cpp">
+      <Filter>源文件\chapter12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

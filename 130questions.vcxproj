@@ -132,6 +132,7 @@
     <ClCompile Include="chapter12\12-3.c" />
     <ClCompile Include="chapter12\12-4.c" />
     <ClCompile Include="chapter12\12-5.c" />
+    <ClCompile Include="chapter12\12-6.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
